@@ -1,3 +1,5 @@
+# KR2: Kapustinskaya
+
 import os
 import socket
 
